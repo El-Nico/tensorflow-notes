@@ -1,0 +1,2 @@
+learn about time series classification
+learn about the different kinds of regression metrics and when they are appropriate
